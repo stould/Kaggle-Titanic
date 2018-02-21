@@ -7,4 +7,4 @@ Team of University of Taubaté (Advanced topics in computing) doing a homework t
 
 [Python resources](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
-Guys, please create your own branch and lest's code.
+Guys, please create your own branch and let's go code.
