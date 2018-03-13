@@ -1,0 +1,11 @@
+-- homem -- > 18 -- porto
+correlação par variavel vivos/mortos
+tamanho da familia -- pais + irmaos 
+
+
+separar todos os vivos e mortos em 2 pacotes, V e M.
+para V, fazer coeficiente de correlacao de pearson para cada par de valores, ex idade, sexo, classe, josé
+
+correlacao(idade, sexo), correlacao(idade, classe), correlacao(idade, josé), correlacao(sexo, classe), 
+
+correlação multipla.
